@@ -1,5 +1,5 @@
-# Satoshi-Roadmap
-This is the roadmap for all the associates in the Satoshi Lab @ NTL-AP. It covers the fields of Blockchain and Cyber Security.
+# becoming snowden
+This is the roadmap for going from zero to hero in cybersecurity & blockchain. It covers the fields of Blockchain and Cyber Security.
 
 ## Prerequisites
 The following concepts/courses are required to move further into the fields:
